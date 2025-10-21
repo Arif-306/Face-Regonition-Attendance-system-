@@ -1,0 +1,85 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+static/
+
+# If you use environment variables
+.env
+*.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS and Windows
+.DS_Store
+Thumbs.db
+
+# Python egg and packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Coverage and test reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# VSCode settings
+.history/
+.vscode/
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/
